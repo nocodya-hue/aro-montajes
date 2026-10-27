@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nocodya-hue.github.io/aro-montajes/sitemap.xml
